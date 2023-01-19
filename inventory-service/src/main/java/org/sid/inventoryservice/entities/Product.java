@@ -15,7 +15,15 @@ import javax.persistence.Id;
 public class Product {
     @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
+    private String code;
     private String name;
+    private String description;
+    private String image;
     private double price;
+    private String category;
     private int quantity;
+    private String inventoryStatus;
+    private int rating;
+
+
 }

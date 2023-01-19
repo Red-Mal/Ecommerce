@@ -33,6 +33,5 @@ public class KeycloakSecurityConfig extends KeycloakWebSecurityConfigurerAdapter
         http.headers().frameOptions().disable();
         http.authorizeRequests().anyRequest().authenticated();
 
-
     }
 }
