@@ -1,0 +1,10 @@
+
+`
+java:S1192*"JDefine a constant instead of duplicating this literal "ELMALLAHI" 3 times.(Ù×î‰
+`
+java:S1192,"JDefine a constant instead of duplicating this literal "060000000" 3 times.(„§÷ù
+B
+java:S1602>",Remove useless curly braces around statement(¯Š«Á
+V
+java:S1612>"@Replace this lambda with method reference 'System.out::println'.(¯Š«Á
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(Áß‡Ü

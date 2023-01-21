@@ -9,7 +9,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="inventory-service" />
         <module name="customer-service" />
-        <module name="data-analytics-service" />
         <module name="billing-supplier-service1" />
         <module name="billing-supplier-service" />
         <module name="gateway" />
