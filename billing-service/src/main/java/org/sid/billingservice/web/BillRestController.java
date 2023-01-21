@@ -41,4 +41,6 @@ public class BillRestController {
         Collection<Bill> bills=billRepository.findBillsByCustomerId(customerId);
         return bills;
     }
+
+
 }

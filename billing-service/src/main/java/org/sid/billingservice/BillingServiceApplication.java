@@ -26,7 +26,7 @@ public class BillingServiceApplication {
     public static void main(String[] args) {
         SpringApplication.run(BillingServiceApplication.class, args);
     }
-    @Bean
+    //@Bean
     CommandLineRunner start(BillRepository billRepository,
                             ProductItemRepository productItemRepository,
                             CustomerRestClient customerRestClient,
